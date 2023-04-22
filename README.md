@@ -15,4 +15,4 @@ ESP32
 - นายเนติพัฒน์ สุกใส [@iBeamKung](https://github.com/iBeamKung)
 - นายเอกลักษณ์ กลมสีมา [@Ekalak01](https://github.com/Ekalak01)
 
-![S__5382349](https://user-images.githubusercontent.com/9079314/233787629-4cb5a7ab-b35a-460d-b40f-0a05971bda84.jpg)
+![S__5382349](https://user-images.githubusercontent.com/9079314/233787739-302d5d54-0dcf-4e74-8c16-6cf45d2b3527.jpg)
