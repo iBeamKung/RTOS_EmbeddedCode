@@ -13,8 +13,8 @@
 
 // Wi-Fi Settings
 const char* ssid = "iBeamHome_2.4G";
-const char* password = "0877911507";
-const char* mqtt_server = "netipat.dev";
+const char* password = "";
+const char* mqtt_server = "";
 
 // MQTT Settings
 const char* client_id = "ESP32";
